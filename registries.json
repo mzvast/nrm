@@ -22,5 +22,9 @@
     "edunpm": {
         "home": "http://www.enpmjs.org",
         "registry": "http://registry.enpmjs.org/"
+    },
+    "baidu": {
+        "home": "http://npm.baidu-int.com",
+        "registry": "http://registry.npm.baidu-int.com/"
     }
 }
