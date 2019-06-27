@@ -28,6 +28,7 @@ $ nrm ls
   taobao --  https://registry.npm.taobao.org/
   nj ------  https://registry.nodejitsu.com/
   skimdb -- https://skimdb.npmjs.com/registry
+  baidu -- http://registry.npm.baidu-int.com/
 
 ```
 
