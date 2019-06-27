@@ -4,7 +4,7 @@ nrm -- NPM registry manager
 [![NPM version][npm-image]][npm-url]
 
 `nrm` can help you easy and fast switch between different npm registries,
-now include: `npm`, `cnpm`, `taobao`, `nj(nodejitsu)`.
+now include: `npm`, `cnpm`, `taobao`, `nj(nodejitsu)`,`baidu-int`.
 
 ## How to configure yarn to use private registry ?
 just add .yarnrc in your project’s directory and write there:
@@ -13,10 +13,10 @@ just add .yarnrc in your project’s directory and write there:
 Or you can configure it in your HOME directory's .yarnrc
 
 
-## Install
+## Install(directly from github)
 
 ```
-$ npm install -g nrm
+$ npm i -g git+ssh://git@github.com:mzvast/nrm.git  
 ```
 
 ## Example
