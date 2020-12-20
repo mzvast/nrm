@@ -17,6 +17,7 @@ Or you can configure it in your HOME directory's .yarnrc
 
 ```
 $ npm i -g git+ssh://git@github.com:mzvast/nrm.git  
+$ npm i -g https://github.com/mzvast/nrm.git
 ```
 
 ## Example
