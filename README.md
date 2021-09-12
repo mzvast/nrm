@@ -79,7 +79,7 @@ Usage: nrm [options] [command]
 * [cnpm](http://cnpmjs.org)
 * [nodejitsu](https://www.nodejitsu.com)
 * [taobao](http://npm.taobao.org/)
-
+* [baidu](http://registry.npm.baidu-int.com/)
 
 ## Notice
 
